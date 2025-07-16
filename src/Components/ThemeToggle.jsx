@@ -1,4 +1,4 @@
-import useThemeStore from '../App/themeStore';
+import useThemeStore from '../App/ThemeStore';
 import { useEffect } from 'react';
 
 export default function ThemeToggle() {

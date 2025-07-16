@@ -12,7 +12,7 @@ export default function App() {
   return (
     <Routes>
       <Route path="/" element={<Login />} />
-      {/* Protected routes all use the AppLayout */}
+  
       <Route
         element={
           isLoggedIn ? <Layout /> : <Navigate to="/" replace />
