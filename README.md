@@ -87,5 +87,16 @@ c. Welcome toast after login
 
 d. Message sent
 
+#SCREENSHOTS 
 
+Login page : /Screenshot/loginPage.png 
 
+OTP : /Screenshot/loginOTP.png
+
+Dashboard : /Screenshot/DashBoard.png
+
+Chat : /Screenshot/Chat.png
+
+Chat Light Mode : /Screenshot/ChatWhite.png
+
+Chat Mobile : /Screenshot/ChatMobile.png
