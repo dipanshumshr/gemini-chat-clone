@@ -87,7 +87,7 @@ c. Welcome toast after login
 
 d. Message sent
 
-#SCREENSHOTS 
+# SCREENSHOTS 
 
 Login page : /Screenshot/loginPage.png 
 
