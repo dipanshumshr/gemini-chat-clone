@@ -57,7 +57,7 @@ src/
 │
 └── main.jsx               # App entry point
 
- #How Features Are Implemented
+ # How Features Are Implemented
 
 1. Throttling / Debouncing
 In Sidebar.jsx, search input is debounced using setTimeout to delay filter updates for smoother UX.
